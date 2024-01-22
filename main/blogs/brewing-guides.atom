@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides"/>
+  <link rel="self" type="application/atom+xml" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides.atom"/>
+  <title>Third Wave Coffee Roasters - brewing-guides</title>
+  <updated>2022-03-15T10:33:37+05:30</updated>
+  <author>
+    <name>Third Wave Coffee Roasters</name>
+  </author>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/easy-cold-brew-coffee-bag</id>
+    <published>2022-03-15T10:33:37+05:30</published>
+    <updated>2022-08-16T18:15:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/easy-cold-brew-coffee-bag"/>
+    <title>Easy Cold Brew Coffee Bag</title>
+    <author>
+      <name>Shekhar Suman</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="UTF-8"><span>For bold, refreshing coffee brewed cold from start to finish.</span><p><a class="read-more" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/easy-cold-brew-coffee-bag">More</a></p>]]>
+    </summary>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/cold-brew</id>
+    <published>2022-01-12T17:25:59+05:30</published>
+    <updated>2022-08-16T18:15:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/cold-brew"/>
+    <title>COLD BREW</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/french-press</id>
+    <published>2022-01-12T17:25:59+05:30</published>
+    <updated>2022-08-16T17:13:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/french-press"/>
+    <title>FRENCH PRESS</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/chemex</id>
+    <published>2022-01-12T17:25:59+05:30</published>
+    <updated>2022-08-16T18:15:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/chemex"/>
+    <title>CHEMEX</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/moka-pot</id>
+    <published>2022-01-12T17:25:59+05:30</published>
+    <updated>2022-08-16T18:15:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/moka-pot"/>
+    <title>MOKA POT</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/pour-over</id>
+    <published>2022-01-12T17:25:58+05:30</published>
+    <updated>2022-08-16T18:15:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/pour-over"/>
+    <title>POUR OVER</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/syphon</id>
+    <published>2022-01-12T17:25:58+05:30</published>
+    <updated>2022-12-02T20:09:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/syphon"/>
+    <title>SYPHON</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/aeropress</id>
+    <published>2022-01-12T17:25:58+05:30</published>
+    <updated>2022-12-02T20:09:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/blogs/brewing-guides/aeropress"/>
+    <title>AEROPRESS</title>
+    <author>
+      <name>Prashant Tanwar</name>
+    </author>
+  </entry>
+</feed>

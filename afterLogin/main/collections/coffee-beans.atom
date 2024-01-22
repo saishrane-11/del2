@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.thirdwavecoffeeroasters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.thirdwavecoffeeroasters.com/collections/coffee-beans.atom"/>
+  <title>Third Wave Coffee Roasters</title>
+  <updated>2023-09-15T02:45:24+05:30</updated>
+  <author>
+    <name>Third Wave Coffee Roasters</name>
+  </author>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+    <published>2023-09-15T02:45:24+05:30</published>
+    <updated>2023-09-15T02:45:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region"/>
+    <title>Speciality Single Origin Chikmagalur Region</title>
+    <s:type></s:type>
+    <s:vendor>Third Wave Coffee Roasters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/files/SSOCHIKCOFFEEBEANFRONT.jpg?v=1694726129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Third Wave Coffee Roasters<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            590.00 - 1060.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Situated in the beautiful Chikmagalur region of Karnataka, we are proud producers of hand-picked and sun-dried Arabica coffee. Our coffee plants grow alongside pepper, cacao, and cardamom, creating a vibrant blend of flavors. When you savor a cup of our coffee, you'll experience the delightful combination of sweet honey and raisin. And to add a touch of fruity goodness, there's a juicy peach note that perfectly balances the overall taste. It's a coffee that's carefully crafted to deliver a truly satisfying and enjoyable experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Medium Light</s:tag>
+    <s:tag>one-one</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+    <published>2023-09-15T02:30:54+05:30</published>
+    <updated>2023-09-15T02:30:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-bababudangiri-region"/>
+    <title>Speciality Single Origin Bababudangiri Region</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/files/SSOBABACOFFEEBEANFRONT.jpg?v=1694725258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            590.00 - 1060.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-bababudangiri-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Embark on a remarkable journey through the rich heritage of coffee cultivation in the hallowed grounds of Baba Budan Giri hills. This renowned destination, named after the legendary merchant Baba Budan, who deftly transported precious coffee seeds from Yemen, stands as the embodiment of India's esteemed coffee culture.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Immerse yourself in our exceptional roast, where you will discover a delightful interplay of flavors. Experience the gentle sweetness of juicy passionfruit balanced by the lively brightness of pineapple. As the temperature gradually descends, a captivating essence of richer molasses emerges, offering a truly indulgent sensation.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This coffee is meticulously crafted through a natural processing method, wherein the coffee beans are dried alongside the cherry, resulting in a remarkable symphony of complex, fruity, and sweet flavors. Only the finest, fully ripened cherries are meticulously handpicked, expertly sorted, and sun-dried on African raised beds, ensuring a pristine and flawless quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>Medium Light</s:tag>
+    <s:tag>medium_light_roast</s:tag>
+    <s:tag>one-one</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+    <published>2023-04-26T18:09:55+05:30</published>
+    <updated>2023-04-26T18:09:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/monsoon-malabar-aa"/>
+    <title>Monsoon Malabar</title>
+    <s:type>Dark Roast</s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/1_d3a50636-4de4-4ef9-911c-4f273758760b.jpg?v=1672923501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong>Dark Roast<br>
+        <strong>Price: </strong>
+            540.00 - 1080.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/monsoon-malabar-aa">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our Monsoon Malabar coffee is an homage to a historical process originating from the long sea journeys in the days of the British Raj. Each cup is packed with bold flavours, complemented by strongly nutty, dark chocolate notes. Sip on this for a perfectly versatile cup that can be enjoyed any time of the day. Our suggestion? Keep a second bag of our Monsoon Malabar coffee handy because you’ll definitely want more."}' data-sheets-userformat='{"2":9089,"3":{"1":0},"10":1,"11":4,"12":0,"16":11}' data-mce-fragment="1">Our Monsoon Malabar coffee is an homage to a historical process originating from the long sea journeys in the days of the British Raj. Each cup is packed with bold flavours, complemented by strong, nutty, dark chocolate notes. Sip on this for a perfectly versatile cup that can be enjoyed any time of the day. Our suggestion? Keep a second bag of our Monsoon Malabar coffee handy because you’ll definitely want more.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>french_press</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>medium_dark_roast</s:tag>
+    <s:tag>moka_pot</s:tag>
+    <s:tag>nutty</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795651973190</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+    <published>2022-07-06T12:07:21+05:30</published>
+    <updated>2022-07-06T12:07:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/organic-signature-filter-coffee-blend"/>
+    <title>Signature South Indian Filter Blend</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/SOUTH-INDIAN-FILTER-COFFEE-BLEND-PDP-03012023-01.jpg?v=1674131146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            540.00 - 860.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/organic-signature-filter-coffee-blend">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Paying tribute to the original South Indian coffee, we bring you our take on the same. The potent burnt caramel notes of our Arabica Washed coffee marry well with the syrupy texture of our Robusta Natural coffee to give this blend its powerful yet familiar flavour. It holds its own with milk and sugar and excels as an espresso or in a Moka Pot.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>dark_roast</s:tag>
+    <s:tag>french_press</s:tag>
+    <s:tag>nilgiris</s:tag>
+    <s:tag>south_indian_filter</s:tag>
+    <s:tag>tamil_nadu</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616387142</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+    <published>2022-01-12T18:37:56+05:30</published>
+    <updated>2022-01-12T18:37:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/french-roast"/>
+    <title>French Roast</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/1_7f3ed76b-2909-4194-aeee-e990b58f3a59.jpg?v=1673341657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            540.00 - 860.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/french-roast">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Born in Karnataka, the misty green Nilgiris form the majestic home of this exquisite dark roast coffee. Every sip is intensely full-bodied with notes of cocoa and a bitter undertone. Sip on this delicious cup and transport yourself to a sunny day at a Parisian cafe."}' data-sheets-userformat='{"2":9149,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"10":1,"11":4,"12":0,"16":11}' data-mce-fragment="1">Born in Karnataka, the misty green Nilgiris form the majestic home of this exquisite dark roast coffee. Every sip is intensely full-bodied with notes of cocoa and a bitter undertone. Sip on this delicious cup and transport yourself to a sunny day at a Parisian cafe.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>dark_roast</s:tag>
+    <s:tag>french_press</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>pour_over</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795647483974</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+    <published>2022-01-12T17:10:07+05:30</published>
+    <updated>2022-01-12T17:10:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/el-diablo-blend"/>
+    <title>El Diablo Blend</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/1_e49e09b5-6de2-43ce-82a9-ae5a03f386e4.jpg?v=1672991807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            540.00 - 1080.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/el-diablo-blend">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Maybe our house blend resembles a dessert more than coffee, and maybe we heartily agree with that. Big-bodied, well structured, and complex, it's what fuels our dynamic team at Third Wave Coffee. Potent on its own, positively provocative with milk or cream, this is a coffee that delights with every sip.&quot;}" data-sheets-userformat='{"2":9149,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"10":1,"11":4,"12":0,"16":11}' data-mce-fragment="1">Maybe our house blend resembles a dessert more than coffee, and maybe we heartily agree with that. Big-bodied, well-structured and complex, it's what fuels our dynamic team at Third Wave Coffee. Potent on its own, positively provocative with milk or cream, this is a coffee that delights with every sip.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>french_press</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>medium_dark_roast</s:tag>
+    <s:tag>moka_pot</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616256070</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+    <published>2022-01-12T17:10:03+05:30</published>
+    <updated>2022-01-12T17:10:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/vienna-roast"/>
+    <title>Vienna Roast</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/1_37109c38-db66-4c29-a5c9-370a5dc3a573.jpg?v=1673341767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            540.00 - 1080.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/vienna-roast">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>dark_roast</s:tag>
+    <s:tag>french_press</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>south_indian_filter</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795616092230</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

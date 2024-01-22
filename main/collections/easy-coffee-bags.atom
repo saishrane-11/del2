@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.thirdwavecoffeeroasters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.thirdwavecoffeeroasters.com/collections/easy-coffee-bags.atom"/>
+  <title>Third Wave Coffee Roasters</title>
+  <updated>2023-11-08T15:44:37+05:30</updated>
+  <author>
+    <name>Third Wave Coffee Roasters</name>
+  </author>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795615830086</id>
+    <published>2023-11-08T15:44:37+05:30</published>
+    <updated>2023-11-08T15:44:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/karadykan-estate-bags"/>
+    <title>Karadykan Estate</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/BagFront_KaradykanEstate.png?v=1660650384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00 - 400.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/karadykan-estate-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-sheets-userformat='{"2":9089,"3":{"1":0},"10":1,"11":4,"12":0,"16":11}' data-sheets-value='{"1":2,"2":"Every sip of this 100% Arabica coffee strides with a decadent nuttiness, balanced against bright, sweet cherries that are canopied by caramel notes. Refresh your evenings with this balanced and fruity cup. "}'>Every sip of this 100% Arabica coffee strides with a decadent nuttiness, balanced against bright, sweet cherries that are canopied by caramel notes. Refresh your evenings with this balanced and fruity cup. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>easy_coffee_bag</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>medium_light_roast</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615830086</id>
+      <title>5 Bags</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615830086</id>
+      <title>10 Bags</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795615993926</id>
+    <published>2023-11-08T15:39:37+05:30</published>
+    <updated>2023-11-08T15:39:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/wake-me-up-blend-bags"/>
+    <title>Wake Me Up Blend</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/BagFront_WakeMeUpBlend.png?v=1660650486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00 - 400.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/wake-me-up-blend-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Every sip of this 100% Arabica coffee is deliciously rich. This full-bodied, intense blend packs a punch and promises to get you up and going. It’s the ideal cup for hectic, hustle-filled days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bitter</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>dark_roast</s:tag>
+    <s:tag>easy_coffee_bag</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615993926</id>
+      <title>5 Bags</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615993926</id>
+      <title>10 Bags</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/6795615961158</id>
+    <published>2023-11-08T15:37:35+05:30</published>
+    <updated>2023-11-08T15:37:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/mellow-blend-bags"/>
+    <title>Mellow Blend</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/products/BagFront_MellowBlend.png?v=1660650409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00 - 400.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/mellow-blend-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-sheets-userformat='{"2":9089,"3":{"1":0},"10":1,"11":4,"12":0,"16":11}' data-sheets-value='{"1":2,"2":"Every sip of this 100% Arabica coffee is filled with a gentle warmth. Nutty and delicious, this blend leaves chocolaty notes lingering on the tongue. Sip on this delightful cup at any time to decompress from the hustle and bustle of the day. "}'>Every sip of this 100% Arabica coffee is filled with a gentle warmth. Nutty and delicious, this blend leaves chocolaty notes lingering on the tongue. Sip on this delightful cup at any time to decompress from the hustle and bustle of the day. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>easy_coffee_bag</s:tag>
+    <s:tag>karnataka</s:tag>
+    <s:tag>medium_dark_roast</s:tag>
+    <s:tag>nutty</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615961158</id>
+      <title>5 Bags</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/6795615961158</id>
+      <title>10 Bags</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

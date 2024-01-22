@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <style>
+        .wrapper_outside {
+            background-color: pink;
+            height: auto;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            /* align-content: center; */
+            justify-content: center;
+        }
+
+        .wrapper {
+            background-color: whitesmoke;
+            width: 50%;
+            padding: 12px;
+            border-radius: 10px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <!-- Required meta tags -->
+    <!-- <meta charset="utf-8"> -->
+    <style>
+
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+
+    <title>Hello, world!</title>
+</head>
+
+<body style="background:#666666;">
+
+    <div class="wrapper_outside" id="pop">
+        <div class="wrapper">
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputName">Name <span style="color: red;">*</span></label>
+                    <input type="text" class="form-control" id="inputName" required>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputEmail">Email <span style="color: red;">*</span></label>
+                    <input type="email" class="form-control" id="inputEmail" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputAddress">Address <span style="color: red;">*</span></label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St" required>
+            </div>
+            <div class="form-group">
+                <label for="inputAddress2">Address 2</label>
+                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">City <span style="color: red;">*</span></label>
+                    <input type="text" class="form-control" id="inputCity" required>
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputState">State <span style="color: red;">*</span></label>
+                    <select id="inputState" class="form-control">
+                        <!-- <option selected>Choose...</option> -->
+                        <option selected value="Maharashtra">Maharashtra</option>
+                        <option value="Thane">Thane</option>
+                        <option value="Pune">Pune</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="inputZip">Zip <span style="color: red;">*</span></label>
+                    <input type="text" class="form-control" id="inputZip" required>
+                </div>
+            </div>
+
+            <button type="submit" onclick="postDataToRazorpay()" class="btn btn-primary">Sign in</button>
+        </div>
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+
+    <!-- postData() -->
+    <script>
+        function callOnload() {
+            document.getElementById('pop').style.display = "block";
+        }
+    </script>
+
+    <script src="../config.js" type="module"></script>
+    <script src="../crud.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.2/firebase.js"></script>
+
+    <!-- <script src="payment.js"></script> -->
+
+
+
+    <script>
+        function postDataToRazorpay() {
+            var val = localStorage.getItem("inputValue1");
+            var uniqueId = val;
+            console.log(uniqueId)
+            firebase.database().ref("RegisterInfo/" + uniqueId).on("value", function (snap) {
+                var demo = snap.val();
+                console.log(demo.products.c1.c1_p4.noOfProducts) //editHere
+                var noOfProducts = demo.products.c1.c1_p4.noOfProducts; //editHere
+                var prize = demo.products.c1.c1_p4.prize;     //editHere
+
+                var name = document.getElementById('inputName').value;
+                var email = document.getElementById('inputEmail').value;
+                var address1 = document.getElementById('inputAddress').value;
+                var address2 = document.getElementById('inputAddress2').value;
+                var city = document.getElementById('inputCity').value;
+                var state = document.getElementById('inputState').value;
+                var zip = document.getElementById('inputZip').value;
+                console.log(name, email, address1, address2, city, state, zip)
+
+                if (name === "" || address1 == "" || email == "" || city == "" || state == "" || zip == "") {
+                    alert("Enter all required Data");
+                    return;
+                }
+                const cartObj = {
+                    firstName: name,
+                    cart: {
+                        Karanji: noOfProducts,     //c1p1 give name of product c1p1 editHere
+                    },
+                    totalPrize: prize
+                };
+                const cart = JSON.stringify(cartObj);
+                if (name === "" || address1 == "" || email == "" || city == "" || state == "" || zip == "") {
+                    return toast.error("All fields are required", {
+                        position: "top-center",
+                        autoClose: 1000,
+                        hideProgressBar: false,
+                        closeOnClick: true,
+                        pauseOnHover: true,
+                        draggable: true,
+                        progress: undefined,
+                        theme: "colored",
+                    })
+                }
+                const addressInfo = {
+                    cart,
+                    name,
+                    email,
+                    address1,
+                    address2,
+                    city,
+                    state,
+                    zip,
+
+                    date: new Date().toLocaleString(
+                        "en-US",
+                        {
+                            month: "short",
+                            day: "2-digit",
+                            year: "numeric",
+                        }
+                    )
+                }
+                console.log(addressInfo)
+
+
+                var options = {
+                    key: "rzp_test_KMMeqFVNgMaAKZ",
+                    key_secret: "WPaZTMjxSsTB5OGXLbLXrVKs",
+                    amount: prize * 100,
+                    currency: "INR",
+                    order_receipt: 'order_rcptid_' + name,
+                    name: "Saish",
+                    description: cart,
+                    notes: addressInfo,
+
+                    handler: function (response) {
+
+                        // console.log(response)
+                        alert("payment Successful");
+                        const paymentId = response.razorpay_payment_id
+                        console.log("this is payment id")
+                        // var payId=paymentId
+                        yourOrders(noOfProducts, prize, paymentId);
+                        window.location.href = 'c1p4.html'  //editHere
+                        // toast.success('Payment2 Successful')
+
+                        
+                        // store in firebase 
+                        const orderInfo = {
+                            addressInfo,
+                            date: new Date().toLocaleString(
+                                "en-US",
+                                {
+                                    month: "short",
+                                    day: "2-digit",
+                                    year: "numeric",
+                                }
+                            ),
+                            email: "abc@gmail.com",
+                            userid: "abcd",
+                            paymentId
+                        }
+                        console.log("orderiNfo");
+                        console.log(orderInfo);
+                        try {
+                            const result = addDoc(collection(fireDB, "orders"), orderInfo)
+                        } catch (error) {
+                            console.log(error)
+                        }
+                    },
+
+                    theme: {
+                        color: "#3399cc"
+                    }
+                };
+                console.log(options);
+                var pay = new window.Razorpay(options);
+                pay.open();
+                console.log(pay)
+
+
+
+
+
+            });
+
+        }
+
+        function yourOrders(noOfProducts, prize, payment_id) {
+            console.log("in your orders");
+            console.log(noOfProducts, prize, payment_id)
+            console.log(payment_id)
+            // payment_id = '1234';
+            var uniqueId = localStorage.getItem("inputValue1");
+            firebase.database().ref('RegisterInfo/' + uniqueId + '/orders/' + payment_id).update(
+                {
+                    numberOfProducts: noOfProducts,
+                    totalPrize: prize,
+                    pay_id: payment_id,
+                    product_name: "Karanji"    //editHere
+                }
+            );
+            alert("data updated")
+        }
+
+
+
+
+    </script>
+
+    <script src="../config.js" type="module"></script>
+    <script src="../crud.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.2/firebase.js"></script>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+</body>
+
+</html>

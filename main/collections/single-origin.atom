@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.thirdwavecoffeeroasters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.thirdwavecoffeeroasters.com/collections/single-origin.atom"/>
+  <title>Third Wave Coffee Roasters</title>
+  <updated>2023-09-15T02:45:24+05:30</updated>
+  <author>
+    <name>Third Wave Coffee Roasters</name>
+  </author>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+    <published>2023-09-15T02:45:24+05:30</published>
+    <updated>2023-09-15T02:45:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region"/>
+    <title>Speciality Single Origin Chikmagalur Region</title>
+    <s:type></s:type>
+    <s:vendor>Third Wave Coffee Roasters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/files/SSOCHIKCOFFEEBEANFRONT.jpg?v=1694726129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Third Wave Coffee Roasters<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            590.00 - 1060.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Situated in the beautiful Chikmagalur region of Karnataka, we are proud producers of hand-picked and sun-dried Arabica coffee. Our coffee plants grow alongside pepper, cacao, and cardamom, creating a vibrant blend of flavors. When you savor a cup of our coffee, you'll experience the delightful combination of sweet honey and raisin. And to add a touch of fruity goodness, there's a juicy peach note that perfectly balances the overall taste. It's a coffee that's carefully crafted to deliver a truly satisfying and enjoyable experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>chikmagalur</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Medium Light</s:tag>
+    <s:tag>one-one</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164340961350</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+    <published>2023-09-15T02:30:54+05:30</published>
+    <updated>2023-09-15T02:30:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-bababudangiri-region"/>
+    <title>Speciality Single Origin Bababudangiri Region</title>
+    <s:type></s:type>
+    <s:vendor>thirdwavecoffeeroasterscom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1834/9395/files/SSOBABACOFFEEBEANFRONT.jpg?v=1694725258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thirdwavecoffeeroasterscom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            590.00 - 1060.00
+            <a href="https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-bababudangiri-region">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Embark on a remarkable journey through the rich heritage of coffee cultivation in the hallowed grounds of Baba Budan Giri hills. This renowned destination, named after the legendary merchant Baba Budan, who deftly transported precious coffee seeds from Yemen, stands as the embodiment of India's esteemed coffee culture.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Immerse yourself in our exceptional roast, where you will discover a delightful interplay of flavors. Experience the gentle sweetness of juicy passionfruit balanced by the lively brightness of pineapple. As the temperature gradually descends, a captivating essence of richer molasses emerges, offering a truly indulgent sensation.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This coffee is meticulously crafted through a natural processing method, wherein the coffee beans are dried alongside the cherry, resulting in a remarkable symphony of complex, fruity, and sweet flavors. Only the finest, fully ripened cherries are meticulously handpicked, expertly sorted, and sun-dried on African raised beds, ensuring a pristine and flawless quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bean</s:tag>
+    <s:tag>bold</s:tag>
+    <s:tag>Medium Light</s:tag>
+    <s:tag>medium_light_roast</s:tag>
+    <s:tag>one-one</s:tag>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Whole Beans / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Whole Beans / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Coarse Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Coarse Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Medium Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Medium Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Fine Grind / 250g</title>
+      <s:price currency="INR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.thirdwavecoffeeroasters.com/products/7164334211142</id>
+      <title>Fine Grind / 500g</title>
+      <s:price currency="INR">1060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
